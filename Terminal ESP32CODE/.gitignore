@@ -1,0 +1,12 @@
+.analysis/
+.pytest_cache/
+.venv/
+__MACOSX/
+node_modules/
+**/__pycache__/
+**/*.py[cod]
+firmware/.pio/
+.DS_Store
+.env
+build/
+dist/
